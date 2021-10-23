@@ -1,0 +1,30 @@
+<header id="header">
+    <div class="avatar" style="background-image: url('{{user.urlimage}}')"></div>
+    <div id="profile">
+        <h3>{{user.nombre}} {{user.apellido}}</h3>
+    </div>
+    <div id="salir">
+        <button mat-button (click)="onClickNo()">Cerrar</button>
+    </div>
+</header>
+
+<div class="mat-elevation-z8">
+    <mat-table [dataSource]="listData" matSort>
+        <ng-container matColumnDef="content">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>Todos los Comentarios</mat-header-cell>
+            <mat-cell *matCellDef="let element">{{element.content}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="Accion">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>Acción</mat-header-cell>
+            <mat-cell *matCellDef="let element">    
+                <button type="button" style="background: red; color: white;"
+                        (click)="eliminarArticulo(element.id)">Eliminar</button>
+            </mat-cell>
+        </ng-container>
+        <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+        <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+    </mat-table>
+    <mat-paginator [pageSizeOptions]="[5, 10]" [pageSize]="5"></mat-paginator>
+
+</div>
+
