@@ -27,8 +27,8 @@ Esta plataforma web permitira, iniciar sesión únicamente a administradores, la
 * **Google Chrome**
 * **Microsoft Edge**
 * **Mozilla Firefox**
-* **Opera*
-* **Safari*
+* **Opera**
+* **Safari**
 
 
 ## Despliegue Web Firebase:
