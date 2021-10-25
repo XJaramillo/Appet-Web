@@ -46,9 +46,13 @@ Para poder subir una página web al hosting de la nube de Firebase, primero tene
 ![image](https://user-images.githubusercontent.com/38759787/138757167-c0aa6974-1cc3-477a-982d-33b0d1d0ac03.png)
 
 LOGIN EN FIREBASE TOOLS
-Ya que tienes una cuenta creada y un proyecto configurado, necesitas Enlazamos Firebase con las firebase-tools que previamente instalamos. Para eso debes ejecutar el siguiente comando en la terminal:
 
-![image](https://user-images.githubusercontent.com/38759787/138756314-a9db5842-569c-486a-afde-1d2b79160ef7.png)
+Enlazamos Firebase con las firebase-tools que previamente instalamos. Para eso debes ejecutar el siguiente comando en la terminal:
+
+![image](https://user-images.githubusercontent.com/38759787/138757495-37de7654-618d-4fb6-9e4e-26bc3ce5767c.png)
+
+![image](https://user-images.githubusercontent.com/38759787/138757690-2ec37048-db4e-4d6b-8018-3f1b2094f311.png)
+
 
 ## Observaciones para usar la plataforma Móvil:
 
