@@ -35,6 +35,7 @@ Esta plataforma web permitira, iniciar sesión únicamente a administradores, la
 
 Se ralizo con ayuda de Firebase Hosting de la siguiente manera:
 
+![image](https://user-images.githubusercontent.com/38759787/138756314-a9db5842-569c-486a-afde-1d2b79160ef7.png)
 
 ## Observaciones para usar la plataforma Móvil:
 
