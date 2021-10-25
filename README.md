@@ -95,6 +95,9 @@ Para futuros cambios:
 
 ![image](https://user-images.githubusercontent.com/38759787/138762126-20d6bf09-938b-4e30-8050-364ae1086723.png)
 
+## Despliegue Appet Web
+
+Clic en el siguiente `enlace` [Appet Web](https://appet-web-d61fd.web.app/). :white_check_mark:
 
 
 ## Observaciones para usar la plataforma Móvil:
