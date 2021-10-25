@@ -36,8 +36,14 @@ Esta plataforma web permitira, iniciar sesión únicamente a administradores, la
 Se ralizo con ayuda de Firebase Hosting de la siguiente manera:
 
 Creamos un proyecto en Firebase De Google:
+
 ![image](https://user-images.githubusercontent.com/38759787/138756805-b377fefc-6a00-47d3-ba82-98b720717813.png)
 
+PREPARAMOS ENTORNO
+
+Para poder subir una página web al hosting de la nube de Firebase, primero tenemos que instalar las herramientas de Firebase (firebase tools), necesitas primero tener instalado NodeJS y NPM, ya con estas dependencias, debes ejecutar el siguiente comando dentro de el CMD o la Terminal, dependiendo de si estás en Windows, MacOS o Linux:
+
+![image](https://user-images.githubusercontent.com/38759787/138757167-c0aa6974-1cc3-477a-982d-33b0d1d0ac03.png)
 
 LOGIN EN FIREBASE TOOLS
 Ya que tienes una cuenta creada y un proyecto configurado, necesitas Enlazamos Firebase con las firebase-tools que previamente instalamos. Para eso debes ejecutar el siguiente comando en la terminal:
