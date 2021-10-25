@@ -66,6 +66,35 @@ Se nos genera una carpeta llamda Dist en el proyecto de Angular:ç
 
 ![image](https://user-images.githubusercontent.com/38759787/138760769-96d7ba52-e9d2-4259-b9e2-798d0052d502.png)
 
+SUBIR EL BUILD A FIREBASE
+
+Para comenzar con la subida ejecuta el comando init de Firebase Tools para que la herramienta configure el proyecto como un proyecto de Angular, y además, enlaza el proyecto que previamente creamos en la consola de Firebase con la carpeta actual:
+
+![image](https://user-images.githubusercontent.com/38759787/138761566-242d3a3a-adc5-496b-adc0-48f25797ac5d.png)
+
+Este comando iniciará un asistente que te guiará por la configuración del proyecto, las opciones que debes seleccionar son:
+
+Usando las flechas arriba/abajo selecciona qué característica de Firebase, Enter:
+
+![image](https://user-images.githubusercontent.com/38759787/138761620-ae033d9d-85cd-43d6-87b8-b7b8848b3265.png)
+
+El siguiente punto es muy importante cuando trabajamos con un proyecto de Angular, en este paso el asistente de Firebase nos pregunta qué directorio contiene nuestra aplicación, es muy importante que indiquemos que es el directorio dist/nombre-proyecto sustituye la parte de nombre-proyecto por la carpeta que veas dentro de dist
+
+![image](https://user-images.githubusercontent.com/38759787/138761755-e3cc46c2-a330-4bed-97e1-7332acf4bbd5.png)
+
+El siguiente paso, está relacionado con las Single Page Applications, como Angular suele contener su propio router (si no lo contiene, no importa no es necesario), escribiremos y y luego presionaremos Enter. 
+
+Luego de eso, Firebase notará que ya existe un archivo index.html y nos preguntara si queremos que lo sobre escriba, o no, escribe n/y luego Enter para indicarle que no debe sobre escribirlo y se conserve el archivo index.html del proyecto Angular.
+Esto debe completar el asistente de Firebase y habremos configurado con éxito nuestro directorio como una app de Angular que podemos subir al Firebase Hosting. Para terminar, vamos a ejecutar el siguiente comando que se encargará de subir nuestros archivos a Firebase para que podamos visualizar nuestra página:
+
+![image](https://user-images.githubusercontent.com/38759787/138761825-5152e94d-9f12-479c-9b99-3d7b7a05cce3.png)
+
+![image](https://user-images.githubusercontent.com/38759787/138762078-ca7c7264-8c76-4403-8548-e3b602a46a8e.png)
+
+Para futuros cambios:
+
+![image](https://user-images.githubusercontent.com/38759787/138762126-20d6bf09-938b-4e30-8050-364ae1086723.png)
+
 
 
 ## Observaciones para usar la plataforma Móvil:
