@@ -35,6 +35,13 @@ Esta plataforma web permitira, iniciar sesión únicamente a administradores, la
 
 Se ralizo con ayuda de Firebase Hosting de la siguiente manera:
 
+Creamos un proyecto en Firebase De Google:
+![image](https://user-images.githubusercontent.com/38759787/138756805-b377fefc-6a00-47d3-ba82-98b720717813.png)
+
+
+LOGIN EN FIREBASE TOOLS
+Ya que tienes una cuenta creada y un proyecto configurado, necesitas Enlazamos Firebase con las firebase-tools que previamente instalamos. Para eso debes ejecutar el siguiente comando en la terminal:
+
 ![image](https://user-images.githubusercontent.com/38759787/138756314-a9db5842-569c-486a-afde-1d2b79160ef7.png)
 
 ## Observaciones para usar la plataforma Móvil:
