@@ -34,7 +34,13 @@ Esta plataforma web permitira, iniciar sesión únicamente a administradores, la
 
 ** *Se Necesita versión de Android 7 o más*
 
-## Descarga El APK APPET
+## Descarga El APK
 
 Descarga `APK` clic en el siguiente enlace [Appet](). :white_check_mark:
+
+## Manual de Usuario
+
+Mira `Manual de usuario` clic en el siguiente enlace [Appet](https://www.youtube.com/watch?v=Qz0A03kBsSc). :white_check_mark:
+
+
 
