@@ -10,10 +10,10 @@ Servicios para todo tipo de macotas
 
 Appet tiene la finalidad de juntar multiples servicios para todo tipo de mascotas, así facilitando al usuario en encontrar el servicio especifico y evitar el uso de otras plataformas externas
 Servicios que se pueden encontrar: 
-Vetrinaria.
-Peluquería
-Hospedaje (Air bnb)
-Tienda (Pet Shop)
+*Vetrinaria.
+*Peluquería
+*Hospedaje (Air bnb)
+*Tienda (Pet Shop)
 
 Aplicación Web administrativa de la plataforma APPET.
 
